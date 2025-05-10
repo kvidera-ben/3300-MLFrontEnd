@@ -16,7 +16,7 @@ This project involved building two separate Flask applications:
 
 ### ✅ Integrated with ML API on Azure 🌐
 - Set up an API server on Azure to process inputs.
-- Updated `app.py` to reference the correct `api_url`.
+- Updated `app.py` to reference the correct URL
 - Verified responses by testing the API with **Postman**.
 
 ### ✅ Thorough Testing of Front-End Application 🔍
