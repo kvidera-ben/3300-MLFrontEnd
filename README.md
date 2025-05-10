@@ -1,4 +1,4 @@
-# Machine Learning Front End
+# Machine Learning Front End 🤖
 
 ## Overview
 This project involved building two separate Flask applications:
@@ -14,26 +14,25 @@ This project involved building two separate Flask applications:
 - Implemented an empty option in dropdowns prompting users to make selections.
 - Configured the form to **POST data** to the `/predict` route.
 
-### ✅ Integrated with ML API on Azure
+### ✅ Integrated with ML API on Azure 🌐
 - Set up an API server on Azure to process inputs.
 - Updated `app.py` to reference the correct `api_url`.
 - Verified responses by testing the API with **Postman**.
 
-### ✅ Thorough Testing of Front-End Application
+### ✅ Thorough Testing of Front-End Application 🔍
 - Checked that required fields return **proper validation errors**.
 - Ensured input values align with the API’s expected format.
 - Confirmed that submitted selections return **a predicted salary**.
 - Cross-checked predictions with API results from Postman.
 
-### ✅ Styled the Web Application Using Bootstrap 5.3
+### ✅ Styled the Web Application Using Bootstrap 5.3 🎨
 - Enhanced design using Bootstrap 5.3.
 - Ensured **responsive formatting** by testing browser resizing.
 - Correctly placed Bootstrap elements across `base.html` and `index.html`.
 
-### ✅ Successfully Deployed Front-End to Azure
+### ✅ Successfully Deployed Front-End to Azure 🚀
 - Hosted the front-end Flask application on Azure.
 - Conducted final validation to confirm the page loads correctly.
 - Verified that form submissions return predictions without errors.
 
 ---
-
